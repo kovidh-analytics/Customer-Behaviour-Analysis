@@ -21,17 +21,17 @@ Shopping behavior (frequency, reviews, shipping type)
 
 Programming: Python (Pandas, NumPy)
 
-Databases: PostgreSQL / MySQL / SQL Server
+Databases:  MySQL 
 
-SQL: Aggregations, joins, subqueries, KPI calculations
+SQL: Aggregations, subqueries
 
 Visualization: Power BI
 
-Reporting: MS Word / PDF
+Reporting: MS Word 
 
 Presentation: Gamma (PPT)
 
-Version Control: Git & GitHub
+Version Control: GitHub
 
 🔄 Project Workflow / Steps
 
@@ -51,7 +51,7 @@ Created derived features for analysis
 
 Database Integration
 
-Loaded cleaned data into PostgreSQL/MySQL/SQL Server
+Loaded cleaned data into MySQL
 
 SQL Analysis
 
